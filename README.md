@@ -8,4 +8,5 @@
 ## Настройка базовых параметров коммутатора.
 1 Switch ➝ enable ➝ configure terminal ➝ line console 0 ➝ logging synchronous 
 2 Switch ➝ enable ➝ configure terminal ➝ line console 0 ➝ password cisco ➝ login
+
 ![](https://github.com/iGORnetwork/Basic-configuration-of-the-cisco-switch/blob/main/image/Screenshot_3.png)

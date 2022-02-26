@@ -6,7 +6,7 @@
 ![](https://github.com/iGORnetwork/Basic-configuration-of-the-cisco-switch/blob/main/image/Screenshot_2.png)
 # Часть 2. Создание сети и настройка основных параметров устройства
 ## Настройка базовых параметров коммутатора.
-1 Установка пароля :
+1. Установка пароля :
 
 a) Switch ➝ enable ➝ configure terminal ➝ line console 0 ➝ logging synchronous 
 
@@ -14,5 +14,11 @@ b) Switch ➝ enable ➝ configure terminal ➝ line console 0 ➝ password cisc
 
 ![](https://github.com/iGORnetwork/Basic-configuration-of-the-cisco-switch/blob/main/image/Screenshot_3.png)
 
-2 Изменения имени устройство :
+2. Отключения поиска списка доменных имен :
+
+a) Switch ➝ enable ➝ configure terminal ➝ no ip domain lookup
+
+
+3. Изменения имени устройство :
+
 a) Switch ➝ enable ➝ configure terminal ➝ hostname S1

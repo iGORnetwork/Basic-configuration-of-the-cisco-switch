@@ -22,3 +22,5 @@ a) Switch ➝ enable ➝ configure terminal ➝ no ip domain lookup
 3. Изменения имени устройство :
 
 a) Switch ➝ enable ➝ configure terminal ➝ hostname S1
+
+![](https://github.com/iGORnetwork/Basic-configuration-of-the-cisco-switch/blob/main/image/Screenshot_4.png)

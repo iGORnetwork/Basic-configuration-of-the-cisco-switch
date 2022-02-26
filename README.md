@@ -24,3 +24,6 @@ a) Switch ➝ enable ➝ configure terminal ➝ no ip domain lookup
 a) Switch ➝ enable ➝ configure terminal ➝ hostname S1
 
 ![](https://github.com/iGORnetwork/Basic-configuration-of-the-cisco-switch/blob/main/image/Screenshot_4.png)
+
+4) Настройка даты и вермяни 
+a) Switch ➝ enable ➝ clock set h:min:sec den mes god

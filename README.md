@@ -7,6 +7,7 @@
 # Часть 2. Создание сети и настройка основных параметров устройства
 ## Настройка базовых параметров коммутатора.
 1 Установка пароля :
+
 a) Switch ➝ enable ➝ configure terminal ➝ line console 0 ➝ logging synchronous 
 
 b) Switch ➝ enable ➝ configure terminal ➝ line console 0 ➝ password cisco ➝ login

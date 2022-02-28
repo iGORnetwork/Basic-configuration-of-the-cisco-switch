@@ -54,4 +54,6 @@ c) S1 (config-if) ➝ #no shutdown
 
 ![](https://github.com/iGORnetwork/Basic-configuration-of-the-cisco-switch/blob/main/image/Screenshot_8.png)
 
+7. Сохраняем настройки 
 
+a) S1 (config) ➝ #copy running-config startup-config

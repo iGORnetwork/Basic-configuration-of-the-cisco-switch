@@ -32,3 +32,5 @@ a) Switch ➝ enable ➝ configure terminal ➝ hostname S1
 4) Настройка даты и вермяни 
 a) Switch ➝ enable ➝ clock set h:min:sec den mes god
 ![](https://github.com/iGORnetwork/Basic-configuration-of-the-cisco-switch/blob/main/image/Screenshot_5.png)
+
+5.

@@ -18,6 +18,9 @@ c) Switch ➝ enable ➝ configure terminal ➝ enable secret class
 
 ![](https://github.com/iGORnetwork/Basic-configuration-of-the-cisco-switch/blob/main/image/Screenshot_6.png)
 
+d) скрываем пароли  S1(config)#service password-encryption
+
+
 2. Отключения поиска списка доменных имен :
 
 a) Switch ➝ enable ➝ configure terminal ➝ no ip domain lookup

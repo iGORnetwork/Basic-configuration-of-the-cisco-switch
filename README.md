@@ -71,6 +71,9 @@ a) S1 (config) ➝ #copy running-config startup-config
 
 ![](https://github.com/iGORnetwork/Basic-configuration-of-the-cisco-switch/blob/main/image/Screenshot_11.png)
  
+3. Подключаемся к коммутатору по TELNET
+
+
  
 
 

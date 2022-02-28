@@ -67,11 +67,16 @@ a) S1 (config) ➝ #copy running-config startup-config
 
 2. Проверим соединение 
  
- CMD ➝ ping 192.168.1.2
+PC-A ➝ CMD ➝ ping 192.168.1.2
 
 ![](https://github.com/iGORnetwork/Basic-configuration-of-the-cisco-switch/blob/main/image/Screenshot_11.png)
  
 3. Подключаемся к коммутатору по TELNET
+
+а) PC-A ➝ CMD ➝ Telenet open 192.168.1.2
+
+![](
+
 
 
  

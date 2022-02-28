@@ -59,3 +59,5 @@ c) S1 (config-if) ➝ #no shutdown
 a) S1 (config) ➝ #copy running-config startup-config
 
 ![](https://github.com/iGORnetwork/Basic-configuration-of-the-cisco-switch/blob/main/image/Screenshot_9.png)
+
+# Настройка PC-A

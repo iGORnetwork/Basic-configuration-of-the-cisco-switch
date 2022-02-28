@@ -33,4 +33,6 @@ a) Switch ➝ enable ➝ configure terminal ➝ hostname S1
 a) Switch ➝ enable ➝ clock set h:min:sec den mes god
 ![](https://github.com/iGORnetwork/Basic-configuration-of-the-cisco-switch/blob/main/image/Screenshot_5.png)
 
-5.
+5. Настройка терминальных линий для удалённого подключения 
+a) S1 ➝ enable ➝ configure terminal ➝ line console VTY 0 4 ➝ password cisco
+

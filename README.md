@@ -40,6 +40,14 @@ a) Switch ➝ enable ➝ clock set h:min:sec den mes god
 
 a) S1 ➝ enable ➝ configure terminal ➝ line console VTY 0 4 ➝ password cisco ➝ login
 
-b) 1 ➝ enable ➝ configure terminal ➝ transport input all
+b) S1 ➝ enable ➝ configure terminal ➝ transport input all
 
 ![](https://github.com/iGORnetwork/Basic-configuration-of-the-cisco-switch/blob/main/image/Screenshot_7.png)
+
+6. Настройка Ip адреса 
+a) S1 (config) ➝ #interface vlan 1
+b) S1 (config-if) ➝ #ip address 192.168.1.2 255.255.255.0
+c) S1 (config-if) ➝ #no shutdown
+
+
+

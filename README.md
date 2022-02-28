@@ -68,6 +68,8 @@ a) S1 (config) ➝ #copy running-config startup-config
 2. Проверим соединение 
  
  CMD ➝ ping 192.168.1.2
+
+![](https://github.com/iGORnetwork/Basic-configuration-of-the-cisco-switch/blob/main/image/Screenshot_11.png)
  
  
 

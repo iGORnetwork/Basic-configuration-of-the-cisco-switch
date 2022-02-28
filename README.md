@@ -48,6 +48,6 @@ b) S1 ➝ enable ➝ configure terminal ➝ transport input all
 a) S1 (config) ➝ #interface vlan 1
 b) S1 (config-if) ➝ #ip address 192.168.1.2 255.255.255.0
 c) S1 (config-if) ➝ #no shutdown
-
+![](https://github.com/iGORnetwork/Basic-configuration-of-the-cisco-switch/blob/main/image/Screenshot_8.png)
 
 

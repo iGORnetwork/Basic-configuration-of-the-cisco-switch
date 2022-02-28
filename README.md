@@ -75,7 +75,7 @@ PC-A ➝ CMD ➝ ping 192.168.1.2
 
 а) PC-A ➝ CMD ➝ Telenet open 192.168.1.2
 
-![](
+![](https://github.com/iGORnetwork/Basic-configuration-of-the-cisco-switch/blob/main/image/Screenshot_12.png)
 
 
 

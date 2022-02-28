@@ -61,7 +61,15 @@ a) S1 (config) ➝ #copy running-config startup-config
 ![](https://github.com/iGORnetwork/Basic-configuration-of-the-cisco-switch/blob/main/image/Screenshot_9.png)
 
 # Настройка PC-A
+1. Установим IP
 
 ![](https://github.com/iGORnetwork/Basic-configuration-of-the-cisco-switch/blob/main/image/Screenshot_10.png)
+
+2. Проверим соединение 
+ 
+ CMD ➝ ping 192.168.1.2
+ 
+ 
+
 
 

@@ -104,4 +104,4 @@ PC-B	                            NIC	                         192.168.1.12	     
 ![](https://github.com/iGORnetwork/Basic-configuration-of-the-cisco-switch/blob/main/image/Screenshot_17.png)
 
 # PC-A
-
+![](https://github.com/iGORnetwork/Basic-configuration-of-the-cisco-switch/blob/main/image/Screenshot_18.png)

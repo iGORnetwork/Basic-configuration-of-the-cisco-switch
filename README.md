@@ -89,7 +89,7 @@ S1	                              VLAN 1	                      192.168.1.1	      
 
 S2	                              VLAN 1	                      192.168.1.2	                   255.255.255.0
 
-PC-A	                            NIC	                         192.168.1.11	                  55.255.255.0
+PC-A	                            NIC	                         192.168.1.11	                  255.255.255.0
 
 PC-B	                            NIC	                         192.168.1.12	                  255.255.255.0
 
@@ -98,3 +98,4 @@ PC-B	                            NIC	                         192.168.1.12	     
 
 ![](https://github.com/iGORnetwork/Basic-configuration-of-the-cisco-switch/blob/main/image/Screenshot_15.png)
 
+# S2

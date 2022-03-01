@@ -1,4 +1,6 @@
-# Basic-configuration-of-the-cisco-switch
+
+# ДЗ ➀ ДЗ Basic-configuration-of-the-cisco-switch
+
 ## Часть 1. Проверка конфигурации коммутатора по умолчанию
 1 Switch ➝ enable ➝ show running-config 
 

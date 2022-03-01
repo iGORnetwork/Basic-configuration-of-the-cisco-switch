@@ -81,7 +81,13 @@ PC-A ➝ CMD ➝ ping 192.168.1.2
 ![](https://github.com/iGORnetwork/Basic-configuration-of-the-cisco-switch/blob/main/image/Screenshot_13.png)
 
 # ДЗ (2) Канальный уровень. Ethernet 
- 
+ 1. Проводим базовые настройки switch end PC согласно таблице 
+
+Устройство	  Интерфейс	  IP-адрес	       Маска подсети
+S1	          VLAN 1	     192.168.1.1	   255.255.255.0
+S2	          VLAN 1	     192.168.1.2	   255.255.255.0
+PC-A	        NIC	        192.168.1.11	  255.255.255.0
+PC-B	        NIC	        192.168.1.12	  255.255.255.0
 
 
 

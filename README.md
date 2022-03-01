@@ -128,3 +128,5 @@ S2# show mac address-table
 
 3. Просмотр работы протокола ARP
 
+![](https://github.com/iGORnetwork/Basic-configuration-of-the-cisco-switch/blob/main/image/Screenshot_22.png)
+![](https://github.com/iGORnetwork/Basic-configuration-of-the-cisco-switch/blob/main/image/Screenshot_23.png)

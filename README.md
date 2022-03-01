@@ -113,4 +113,4 @@ PC-B	                            NIC	                         192.168.1.12	     
 
 S1# ➝ show mac address-table
 
-![](https://github.com/iGORnetwork/Basic-configuration-of-the-cisco-switch/blob/main/image/Screenshot_19.png)
+![](https://github.com/iGORnetwork/Basic-configuration-of-the-cisco-switch/blob/main/image/Screenshot_20.png)

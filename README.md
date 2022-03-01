@@ -1,5 +1,5 @@
 
-# ДЗ 1  Команды IOS. Базовая конфигурация устройств 
+# ДЗ (1)  Команды IOS. Базовая конфигурация устройств 
 
 ## Часть 1. Проверка конфигурации коммутатора по умолчанию
 1 Switch ➝ enable ➝ show running-config 
@@ -80,7 +80,7 @@ PC-A ➝ CMD ➝ ping 192.168.1.2
 ![](https://github.com/iGORnetwork/Basic-configuration-of-the-cisco-switch/blob/main/image/Screenshot_12.png)
 ![](https://github.com/iGORnetwork/Basic-configuration-of-the-cisco-switch/blob/main/image/Screenshot_13.png)
 
-
+# ДЗ (2) Канальный уровень. Ethernet 
  
 
 

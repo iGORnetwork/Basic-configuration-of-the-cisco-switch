@@ -123,3 +123,5 @@ S2# show mac address-table
 
 После отчистки отображается один mac address 
 Если отправить эхо-запрос с PC-B ping 192. 168. 1. 1 192. 168. 1. 2 192. 168. 1. 11 тогда в таблице появляется 3 mac адреса  с которых выполняли команду ping
+
+![](https://github.com/iGORnetwork/Basic-configuration-of-the-cisco-switch/blob/main/image/Screenshot_21.png)

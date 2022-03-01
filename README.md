@@ -1,5 +1,5 @@
 
-# ДЗ ➀ ДЗ Basic-configuration-of-the-cisco-switch
+# ДЗ 1  Команды IOS. Базовая конфигурация устройств 
 
 ## Часть 1. Проверка конфигурации коммутатора по умолчанию
 1 Switch ➝ enable ➝ show running-config 

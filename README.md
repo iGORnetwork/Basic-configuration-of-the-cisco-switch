@@ -40,7 +40,7 @@ a) Switch ➝ enable ➝ clock set h:min:sec den mes god
 
 5. Настройка терминальных линий для удалённого подключения 
 
-a) S1 ➝ enable ➝ configure terminal ➝ line console VTY 0 4 ➝ password cisco ➝ login
+a) S1 ➝ enable ➝ configure terminal ➝ line VTY 0 4 ➝ password cisco ➝ login
 
 b) S1 ➝ enable ➝ configure terminal ➝ transport input all
 

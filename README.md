@@ -111,6 +111,12 @@ PC-B	                            NIC	                         192.168.1.12	     
 
 2. Просмотрите таблицу МАС-адресов коммутатора S2
 
-S1# ➝ show mac address-table
+S2# ➝ show mac address-table
 
 ![](https://github.com/iGORnetwork/Basic-configuration-of-the-cisco-switch/blob/main/image/Screenshot_20.png)
+
+3. Очистка таблицы МАС-адресов коммутатора S2 и снова отобразить таблицу МАС-адресов.
+S2# clear mac address-table dynamic 
+S# show mac address-table 
+- после отчеты отображается один mac address 
+Если отправить эхо-запрос с PC-B ping 192. 168. 1. 1 192. 168. 1. 2 192. 168. 1. 11 тогда в таблице появляется 3 mac адреса  с которых выполняли команду ping
